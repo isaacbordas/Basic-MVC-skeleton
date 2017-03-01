@@ -1,0 +1,14 @@
+/****** CUSTOM STYLES ******/
+a{color: #032e63;}
+a:hover{color: #27c2d8;}
+.wrap{position: relative;}
+.mega-menu > li, .menu > li ul, .mega-menu{width: 260px !important;}
+.message{position: absolute; top: 55px; left: 0px; height: 50px; width: 100%; text-align: center; line-height: 50px;}
+.message.success{background-color: green; color: #ffffff; font-size: 18px; font-weight: bold;}
+.message.error{background-color: red; color: #ffffff; font-size: 18px; font-weight: bold;}
+.debug{position: absolute; bottom: 0px; left: 0px; width: 100%; background-color: #000000; z-index: 100;}
+.feature p.error{color:#edf011; font-weight: bold;}
+.feature-3 i{color: #27c2d8;}
+.table-striped > tbody > tr:nth-of-type(2n+1){background-color: #eeeeee;}
+.link_button{display: inline-block; padding: 10px; background-color: #47b475; color: #ffffff; text-transform: uppercase; border: 2px solid #47b475;}
+.link_button:hover{background-color: #ffffff; color: #47b475; }
